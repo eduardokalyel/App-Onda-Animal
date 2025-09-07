@@ -1,5 +1,5 @@
 {
   "appId": "com.ondaanimal.app",
   "appName": "App ONDA ANIMAL- Plataforma de Adoção de Animais",
-  "webDir": "dist"
+  "webDir": "build"
 }
