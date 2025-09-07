@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">App ONDA ANIMAL- Plataforma de Adoção de Animais</string>
+    <string name="title_activity_main">App ONDA ANIMAL- Plataforma de Adoção de Animais</string>
+    <string name="package_name">com.ondaanimal.app</string>
+    <string name="custom_url_scheme">com.ondaanimal.app</string>
+</resources>
